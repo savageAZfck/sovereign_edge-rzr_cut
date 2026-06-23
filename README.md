@@ -6,3 +6,4 @@ No part may be used, copied, distributed, sublicensed, or altered without explic
 Unauthorized copying or distribution is strictly prohibited.
 
 For demo/audit access or licensing, contact: Adam Clark (github.com/savageAZfck).
+savagetism@icloud.com
