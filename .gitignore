@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+sovereign_ledger.jsonl
+sovereign_audit.log
+env/
+.env
+.DS_Store
+.vscode/
+.idea/
