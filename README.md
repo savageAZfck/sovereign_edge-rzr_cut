@@ -17,12 +17,12 @@ Multi-tenant ready with isolation boundaries
 Plug-and-play live telemetry for ops and incident response
 Getting Started
 Clone the repo:
-1git clone https://github.com/savageAZfck/sovereign_edge-rzr_cut.git
-2cd sovereign_edge_rzr_cut
+git clone https://github.com/savageAZfck/sovereign_edge-rzr_cut.git
+cd sovereign_edge-rzr_cut
 Install requirements:
-1pip install -r requirements.txt
+pip install -r requirements.txt
 Run the edge service:
-1python sovereign_edge_rzr_cut.py
+python sovereign_edge-rzr_cut.py
 (or as per the CLI guide in the repo)
 Edge runtime starts listening for jobs and state transitions immediately.
 License 
